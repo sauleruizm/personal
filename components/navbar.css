@@ -1,0 +1,9 @@
+.navbar {
+  background: var(--main-background-desktop);
+  width: 98vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  align-content: stretch;
+}

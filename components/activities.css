@@ -1,0 +1,8 @@
+.activitiesBaggage {
+  background: var(--main-activities-background);
+  border-radius: 20px;
+  width: 102px;
+  text-align: center;
+  margin-top: 1px;
+  color: var(--text-baggage-color);
+}

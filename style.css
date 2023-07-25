@@ -1,0 +1,18 @@
+:root {
+  /*
+  public variables:
+  */
+  --main-background-desktop: #282828;
+  --main-activities-background: #454545;
+
+  /*variables para desktopBorder*/
+  --main-background-color-black: black;
+  --main-border-radius: 5px;
+
+  /* --text-color: #828282; */
+  --text-baggage-color: #A5A4A5;
+
+  /* ; */
+  background-color: var(--main-background-color-black);
+  overflow: hidden;
+}

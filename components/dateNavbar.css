@@ -1,0 +1,5 @@
+.dateNavbar {
+  color: var(--text-baggage-color);
+  background: var(--main-background-desktop);
+  text-align: center;
+}
