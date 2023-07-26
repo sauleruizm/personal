@@ -1,0 +1,14 @@
+.logout-right-bar {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.grow {
+  transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.2);
+}
