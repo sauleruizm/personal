@@ -1,8 +1,7 @@
 .logout-right-bar {
-  width: 24px;
-  height: 24px;
+  width: 100px;
   display: flex;
-  flex-direction: row-reverse;
+  justify-content: space-evenly;
 }
 
 .grow {

@@ -1,7 +1,10 @@
 .desktopBorder {
   background: var(--main-background-desktop);
+  background-image: url(public/Sprinkle.svg);
+  background-size: contain;
+  background-repeat: round;
   height: 95vh;
   border-radius: 10px;
-  /* display: flex; */
-
+  display: flex;
+  justify-content: space-between;
 }

@@ -15,8 +15,8 @@ export const logoutNavbar = ()=> {
   imgSound.className = 'grow'
   
   
-  date.appendChild(imgPower)
   date.appendChild(imgSound)
+  date.appendChild(imgPower)
   date.className = 'logout-right-bar'
 
   return date
